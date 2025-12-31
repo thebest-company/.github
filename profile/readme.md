@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/thebest-company/.github/blob/main/public/images/favicon-196.png">
+    <img src="https://github.com/thebest-company/.github/blob/main/images/favicon-196.png">
     <h1>🐣 THE BEST COMPANY ✨</h1>
     <p>หากคุณชอบโปรเจ็กต์ของเรา โปรดให้ดาว ⭐ กับเราบน GitHub เพื่อรับการอัปเดตล่าสุด</p>
 </div>
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/thebest-company/.github/blob/main/public/images/banner.png">
+    <img src="https://github.com/thebest-company/.github/blob/main/images/banner.png">
     <small>รูปภาพหน้าหลักของเว็บไซต์</small>
 </div>
 
